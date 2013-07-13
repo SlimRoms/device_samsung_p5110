@@ -21,7 +21,7 @@
     },
     {
         "repository": "SlimRoms/device_samsung_p5100",
-        "target_path": "device/samsung/p3110",
+        "target_path": "device/samsung/p5110",
         "branch": "jb4.2"
     },
     {
