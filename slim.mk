@@ -14,9 +14,6 @@
 # limitations under the License.
 #
 
-## Specify phone tech before including full_phone
-$(call inherit-product, vendor/slim/config/gsm.mk)
-
 # Release name
 PRODUCT_RELEASE_NAME := p5110
 

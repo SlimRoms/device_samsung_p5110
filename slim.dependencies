@@ -1,27 +1,27 @@
 [
     {
-        "repository": "CyanogenMod/android_device_samsung_omap4-common",
+        "repository": "SlimRoms/device_samsung_omap4-common",
         "target_path": "device/samsung/omap4-common",
-        "branch": "cm-10.2"
+        "branch": "kk4.4"
     },
     {
         "repository": "CyanogenMod/android_kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
-        "branch": "cm-10.2"
+        "branch": "cm-11.0"
     },
     {
         "repository": "SlimRoms/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "branch": "jb4.3"
+        "branch": "kk4.4"
     },
     {
         "repository": "SlimRoms/device_samsung_p5100",
-        "target_path": "device/samsung/p5110",
-        "branch": "jb4.3"
+        "target_path": "device/samsung/p5100",
+        "branch": "kk4.4"
     },
     {
         "repository": "SlimRoms/hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "jb4.3"
+        "branch": "kk4.4"
     }
 ]
