@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2012 The CyanogenMod Project
+# Copyright (C) 2014 SlimRoms Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -35,4 +36,8 @@ PRODUCT_MODEL := GT-P5110
 PRODUCT_MANUFACTURER := samsung
 
 #Set build fingerprint / ID / Prduct Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=espresso10wifixx TARGET_DEVICE=espresso10wifi BUILD_FINGERPRINT=samsung/espresso10wifixx/espresso10wifi:4.0.3/IML74K/P5110XWALD2:user/release-keys PRIVATE_BUILD_DESC="espresso10wifixx-user 4.0.3 IML74K P5110XWALD2 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRODUCT_NAME=espresso10wifixx \
+    TARGET_DEVICE=espresso10wifi \
+    BUILD_FINGERPRINT="samsung/espresso10wifixx/espresso10wifi:4.2.2/JDQ39/P5110XXDML1:user/release-keys" \
+    PRIVATE_BUILD_DESC="espresso10wifixx-user 4.2.2 JDQ39 P5110XXDML1 release-keys"
