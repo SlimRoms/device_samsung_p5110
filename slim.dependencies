@@ -5,9 +5,9 @@
         "branch": "kk4.4"
     },
     {
-        "repository": "CyanogenMod/android_kernel_samsung_espresso10",
+        "repository": "SlimRoms/kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
-        "branch": "cm-11.0"
+        "branch": "kk4.4"
     },
     {
         "repository": "SlimRoms/proprietary_vendor_samsung",
