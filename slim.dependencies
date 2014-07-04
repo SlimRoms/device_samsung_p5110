@@ -10,11 +10,6 @@
         "branch": "kk4.4"
     },
     {
-        "repository": "SlimRoms/proprietary_vendor_samsung",
-        "target_path": "vendor/samsung",
-        "branch": "kk4.4"
-    },
-    {
         "repository": "SlimRoms/device_samsung_p5100",
         "target_path": "device/samsung/p5100",
         "branch": "kk4.4"
