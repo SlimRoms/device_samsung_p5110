@@ -2,21 +2,21 @@
     {
         "repository": "SlimRoms/device_samsung_omap4-common",
         "target_path": "device/samsung/omap4-common",
-        "branch": "lp5.0"
+        "branch": "lp5.1"
     },
     {
         "repository": "SlimRoms/kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
-        "branch": "lp5.0"
+        "branch": "lp5.1"
     },
     {
         "repository": "SlimRoms/device_samsung_p5100",
         "target_path": "device/samsung/p5100",
-        "branch": "lp5.0"
+        "branch": "lp5.1"
     },
     {
         "repository": "SlimRoms/hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "lp5.0"
+        "branch": "lp5.1"
     }
 ]
