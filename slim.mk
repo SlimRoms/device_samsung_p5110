@@ -23,6 +23,9 @@ PRODUCT_RELEASE_NAME := p5110
 TARGET_SCREEN_HEIGHT := 480
 TARGET_SCREEN_WIDTH := 1280
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.carrier=wifi-only
+
 # Inherit some common Slim stuff.
 $(call inherit-product, vendor/slim/config/common_full_tablet_wifionly.mk)
 
