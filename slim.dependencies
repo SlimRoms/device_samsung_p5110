@@ -15,6 +15,11 @@
         "branch": "lp5.1"
     },
     {
+        "repository": "SlimRoms/device_samsung_espresso-common",
+        "target_path": "device/samsung/espresso-common",
+        "branch": "lp5.1"
+    },
+    {
         "repository": "SlimRoms/hardware_samsung",
         "target_path": "hardware/samsung",
         "branch": "lp5.1"
