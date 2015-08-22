@@ -15,6 +15,9 @@
 # limitations under the License.
 #
 
+# use 44.1 kHz sounds
+TARGET_NEED_44KHZ_SOUNDS := true
+
 # Release name
 PRODUCT_RELEASE_NAME := p5110
 
