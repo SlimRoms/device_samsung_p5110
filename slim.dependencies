@@ -5,11 +5,6 @@
         "branch": "lp5.1"
     },
     {
-        "repository": "SlimRoms/device_samsung_p5100",
-        "target_path": "device/samsung/p5100",
-        "branch": "lp5.1"
-    },
-    {
         "repository": "SlimRoms/device_samsung_espresso-common",
         "target_path": "device/samsung/espresso-common",
         "branch": "lp5.1"
